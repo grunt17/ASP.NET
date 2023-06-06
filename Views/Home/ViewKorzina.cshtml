@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Korzina";
+}
+
+<h2>Корзина</h2>
+<table class="table table-bordered table-primary">
+    <tr>
+        <th><p>№</p></th>
+        <th><p>Товар</p></th>
+        <th><p>Модель</p></th>
+        <th><p>Марка</p></th>
+        <th><p>Цена</p></th>
+        <th><p>Кол-во</p></th>
+    </tr>
+
+
+    @foreach (var p in ViewBag.Korzinas as IEnumerable<Korzina>)
+    {
+        <tr>
+            <td><p>@p.Id</p></td>
+            <td><p>@p.Name</p></td>
+            <td><p>@p.modId</p></td>
+            <td><p>@p.markId</p></td>
+            <td><p>@p.Price</p></td>
+            <td><p>@p.Kol</p></td>
+            <td><a href="/Home/Select/@p.Id">Выбрать</a></td>
+            <td><a href="/Home/Cancel/@p.Id">Отмена</a></td>
+        </tr>
+    }
+</table>
+
+<a href="/Home/BackToTovars">В таблицу Tovars</a>
+<br />
+<a href="/Home/GoToOrder">Оформить заказ</a>
+

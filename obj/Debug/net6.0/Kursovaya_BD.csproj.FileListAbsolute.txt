@@ -1,0 +1,243 @@
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\appsettings.json
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.staticwebassets.runtime.json
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.exe
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.deps.json
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.runtimeconfig.json
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.pdb
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.csproj.AssemblyReference.cache
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.AssemblyInfoInputs.cache
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.AssemblyInfo.cs
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.csproj.CoreCompileInputs.cache
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.RazorAssemblyInfo.cache
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.RazorAssemblyInfo.cs
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets\msbuild.Kursovaya_BD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets\msbuild.build.Kursovaya_BD.props
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Kursovaya_BD.props
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Kursovaya_BD.props
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\scopedcss\bundle\Kursovaya_BD.styles.css
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\scopedcss\projectbundle\Kursovaya_BD.bundle.scp.css
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.csproj.CopyComplete
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\refint\Kursovaya_BD.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.pdb
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.genruntimeconfig.cache
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\ref\Kursovaya_BD.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\Ринас\source\repos\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Reflection.Metadata.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\appsettings.Development.json
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\appsettings.json
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.staticwebassets.runtime.json
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.exe
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.deps.json
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.runtimeconfig.json
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.pdb
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Azure.Core.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Azure.Identity.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Collections.Immutable.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Memory.Data.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Reflection.Metadata.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.csproj.AssemblyReference.cache
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.AssemblyInfoInputs.cache
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.AssemblyInfo.cs
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.csproj.CoreCompileInputs.cache
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.MvcApplicationPartsAssemblyInfo.cache
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.RazorAssemblyInfo.cache
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.RazorAssemblyInfo.cs
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets\msbuild.Kursovaya_BD.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets\msbuild.build.Kursovaya_BD.props
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Kursovaya_BD.props
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Kursovaya_BD.props
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets.build.json
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets.development.json
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\scopedcss\bundle\Kursovaya_BD.styles.css
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\scopedcss\projectbundle\Kursovaya_BD.bundle.scp.css
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.csproj.CopyComplete
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.dll
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\refint\Kursovaya_BD.dll
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.pdb
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.genruntimeconfig.cache
+F:\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\ref\Kursovaya_BD.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\appsettings.json
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.staticwebassets.runtime.json
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.exe
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.deps.json
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.runtimeconfig.json
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Kursovaya_BD.pdb
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Reflection.Metadata.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.AssemblyInfoInputs.cache
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.AssemblyInfo.cs
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.RazorAssemblyInfo.cache
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.RazorAssemblyInfo.cs
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets\msbuild.Kursovaya_BD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets\msbuild.build.Kursovaya_BD.props
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Kursovaya_BD.props
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Kursovaya_BD.props
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\scopedcss\bundle\Kursovaya_BD.styles.css
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\scopedcss\projectbundle\Kursovaya_BD.bundle.scp.css
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.csproj.CopyComplete
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\refint\Kursovaya_BD.dll
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.pdb
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\Kursovaya_BD.genruntimeconfig.cache
+C:\Users\salih\OneDrive\Рабочий стол\Kursovaya_BD\Kursovaya_BD\obj\Debug\net6.0\ref\Kursovaya_BD.dll

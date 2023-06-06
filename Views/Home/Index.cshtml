@@ -1,0 +1,73 @@
+﻿@{
+    ViewBag.Title = "Каталог товаров";
+}
+
+<form method="get">
+    <div class="form-inline">
+
+        @*Названия тегов DropDownList: devId и firmId
+        должны совпадать названиями параметров метода Index*@
+
+        <label class="control-label">Модели: </label>
+        @Html.DropDownList("modId", ViewBag.Models as SelectList,
+        htmlAttributes: new { @class = "form-control" })
+
+
+        <label class="control-label">Марки: </label>
+        @Html.DropDownList("markId", ViewBag.Markas as SelectList,
+        htmlAttributes: new { @class = "form-control" })
+
+        @*<input type="submit" value="Фильтр" id="filterSubmit"
+        class="btn btn-primary" />*@
+        <br /> <br />
+    </div>
+</form>
+<br />
+
+<h2>Каталог товаров</h2>
+<table class="table table-bordered table-primary">
+    <tr>
+        <th><p>№</p></th>
+        <th><p>Товар</p></th>
+        <th><p>Модель</p></th>
+        <th><p>Марка</p></th>
+        <th><p>Цена</p></th>
+        <th><p>Кол-во</p></th>
+    </tr>
+
+
+    @foreach (var p in ViewBag.Tovars as IEnumerable<Tovar>)
+    {
+        <tr>
+            <td><p>@p.Id</p></td>
+            <td><p>@p.Name</p></td>
+            <td><p>@p.Mod.modName</p></td>
+            <td><p>@p.Mark.markName</p></td>
+            <td><p>@p.Price</p></td>
+            <td><p>@p.Kol</p></td>
+            @*<td><a href="/Home/Edit/@p.Id">Редактировать</a> </td>*@
+            <td><a href="/Home/Korzina/@p.Id">В корзину</a> </td>
+        </tr>
+    }
+</table>
+
+<a href="/Home/ViewKorzina">Просмотр Корзины</a>
+
+@section scripts{
+    <script>
+        // Активация раскрывающегося списка выбора типа устройства
+        const selectDevs = document.getElementById("modId");
+
+        selectDevs.onchange = e => {
+            document.getElementById('filterSubmit').click();
+        }
+
+
+        // Активация раскрывающегося списка выбора фирмы производителя
+        const selectFirms = document.getElementById("markId");
+
+        selectFirms.onchange = e => {
+            document.getElementById('filterSubmit').click();
+        }
+    </script>
+}
